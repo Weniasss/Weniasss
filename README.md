@@ -8,15 +8,10 @@ Welcome to my GitHub! My name is Volodymyr Zaikovskyi . I am a Computer Science 
 
 ### Projects :
 
-| Attempt | #1  | #2  |
-| :---:   | :-: | :-: |
-| Seconds | 301 | 283 |
-
 | Repo        | Status   | Description  |
 | :---:       | :-:      | :-:          |
 | WeatherApp  | Finished | weather application for Android written in Java |
-| :---:       | :-:      | :-:          |
-| Seconds | 301 | 283 |
+| WebSiteHotels | Finished | web site about hotels wirtten in PHP |
 
 
 
