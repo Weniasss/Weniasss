@@ -2,6 +2,12 @@
 
 Welcome to my GitHub! My name is Volodymyr Zaikovskyi . I am a Computer Science student at the Lodz University of Technology.
 
+### About me :
+- I am interested in React, Angular, Frontend technology.
+- I am looking for an internship / part-time job.
+
+
+
 <!--
 **Weniasss/Weniasss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
