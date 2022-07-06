@@ -6,6 +6,12 @@ Welcome to my GitHub! My name is Volodymyr Zaikovskyi . I am a Computer Science 
 - I am interested in React, Angular, Frontend technology.
 - I am looking for an internship / part-time job.
 
+### Projects :
+
+| Attempt | #1  | #2  |
+| :---:   | :-: | :-: |
+| Seconds | 301 | 283 |
+
 
 
 <!--
