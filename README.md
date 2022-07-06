@@ -3,15 +3,19 @@
 Welcome to my GitHub! My name is Volodymyr Zaikovskyi . I am a Computer Science student at the Lodz University of Technology.
 
 ### About me :
+--------
 - I am interested in React, Angular, Frontend technology.
 - I am looking for an internship / part-time job.
 
 ### Projects :
+--------
 
 | Repo        | Status   | Description  |
 | :---:       | :-:      | :-:          |
 | WeatherApp  | Finished | weather application for Android written in Java |
-| WebSiteHotels | Finished | web site about hotels wirtten in PHP |
+| [WebSiteAboutHotels](https://github.com/Weniasss/WebSiteAboutHotels) | Finished | web site about hotels wirtten in PHP |
+
+
 
 
 
