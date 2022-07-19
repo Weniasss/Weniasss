@@ -14,6 +14,7 @@ Welcome to my GitHub! My name is Volodymyr Zaikovskyi . I am a Computer Science 
 | :---:       | :-:      | :-:          |
 | [WebSiteAboutHotels](https://github.com/Weniasss/WebSiteAboutHotels) | Finished | web site about hotels written in PHP |
 | [WebSite2_React](https://github.com/Weniasss/WebSite2_FrontEndSideReact)  | In progress | web site written in React |
+| [WeatherApp](https://github.com/Weniasss/WebSite2_FrontEndSideReact)  | Finished | Weather application for Android written in Java |
 
 ### Technology Stack :
 --------
