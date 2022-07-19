@@ -4,8 +4,8 @@ Welcome to my GitHub! My name is Volodymyr Zaikovskyi . I am a Computer Science 
 
 ### About me :
 --------
-- I am interested in React, Angular, Frontend technology.
-- I am looking for an internship / part-time job.
+- I am interested in React, Angular, Node JS , Java .
+- I am looking for an internship / part-time job .
 
 ### Projects :
 --------
@@ -15,7 +15,11 @@ Welcome to my GitHub! My name is Volodymyr Zaikovskyi . I am a Computer Science 
 | [WebSiteAboutHotels](https://github.com/Weniasss/WebSiteAboutHotels) | Finished | web site about hotels written in PHP |
 | [WebSite2_React](https://github.com/Weniasss/WebSite2_FrontEndSideReact)  | In progress | web site written in React |
 
-
+### Technologies :
+--------
+- React , Node JS .
+- Programming in C language.
+- OOP with Java .
 
 
 
