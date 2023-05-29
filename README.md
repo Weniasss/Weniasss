@@ -4,8 +4,8 @@ Welcome to my GitHub! My name is Volodymyr Zaikovskyi . I am a Computer Science 
 
 ### About me :
 --------
-- I am interested in React, Node JS , Java , Redux .
-- I am looking for an internship / part-time job .
+- I am interested in Java, JS , PHP .
+- I am looking for an internship / job .
 
 ### Projects :
 --------
