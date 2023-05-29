@@ -45,12 +45,6 @@ Welcome to my GitHub! My name is Volodymyr Zaikovskyi . I am a Computer Science 
 <br /><br />
 
 
-### I’m currently learning . . . 
---------
-- Angular .
-- Next JS .
-- Vue.JS .
-
 <!--
 **Weniasss/Weniasss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
